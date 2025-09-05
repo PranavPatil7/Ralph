@@ -1,13 +1,5 @@
 # Ralph
 
-## Update - 2025/02
-
-As Allegro, we continue to publish Ralph's source code and will maintain its development under a "Sources only" model, without guarantees. We believe this approach will be beneficial, allowing everyone to use and build upon the software. Our current goal is to modernize the software and ensure its long-term maintainability, and we're investing into it in 2025.
-
-However, we are not operating under a contribution-based model. While we welcome discussions, we do not guarantee responses to issues or support for pull requests. If you require commercial support, please visit http://ralph.discourse.group.
-
-We sincerely appreciate all past contributions that have shaped Ralph into the powerful tool it is today, and encourage the community to continue using it.
-
 
 ## Overview
 
@@ -46,6 +38,3 @@ http://ralph-demo.allegro.tech/
 ## Documentation
 Visit our documentation on [readthedocs.org](https://ralph-ng.readthedocs.org)
 
-## Getting help
-
-* Online forum for Ralph community: https://ralph.discourse.group
