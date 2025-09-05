@@ -19,12 +19,6 @@ It is an Open Source project provided on Apache v2.0 License.
 [![Build Status](https://github.com/allegro/ralph/actions/workflows/main.yml/badge.svg)](https://github.com/allegro/ralph/actions/workflows/main.yml)
 [![Coverage Status](https://coveralls.io/repos/allegro/ralph/badge.svg?branch=ng&service=github)](https://coveralls.io/github/allegro/ralph?branch=ng)
 
-## Live demo:
-
-http://ralph-demo.allegro.tech/
-
-* login: ralph
-* password: ralph
 
 ## Screenshots
 
